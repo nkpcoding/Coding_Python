@@ -1,0 +1,7 @@
+participant_num,participant_gender,participant_age,has_depression
+1,male,25,0
+2,female,37,1
+3,nonbinary,18,1
+4,male,21,0
+5,female,32,0
+6,female,17,1
